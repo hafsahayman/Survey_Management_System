@@ -1,0 +1,10 @@
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\bin\ERP.dll.config
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\bin\ERP.dll
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\bin\ERP.pdb
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\bin\ERP.xml
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.Resources.resources
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.dll
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.xml
+c:\users\skm\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\SKM\documents\visual studio 2013\Projects\ERP\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
